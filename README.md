@@ -6,7 +6,10 @@
 > Visit my profesional profile in [_here_](https://www.linkedin.com/in/ra%C3%BAl-soriano-bravo-5381222b/).
 > <!-- If you have the project hosted somewhere, include the link here. -->
 
+>GitHub Personal Account in [_here_](https://github.com/raulsorianobravo).
+
 ![Example screenshot](./resources/front.PNG)
+
 
 ## Table of Contents
 * [General Info](#general-information)
