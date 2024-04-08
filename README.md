@@ -6,7 +6,7 @@
 > Visit my profesional profile in [_here_](https://www.linkedin.com/in/ra%C3%BAl-soriano-bravo-5381222b/).
 > <!-- If you have the project hosted somewhere, include the link here. -->
 
-![Example screenshot](./resources/banner.png)
+<!--![Example screenshot](./resources/banner.png)-->
 
 ## Table of Contents
 * [General Info](#general-information)
