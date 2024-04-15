@@ -35,10 +35,19 @@
 
 
 ## Technologies Used
-- .NET
-- Java
-- Python
-- Android/iOS
+- .NET <img src="./resources/NET.png" width="80" height="80">
+- Java <img src="./resources/java.png" width="80" height="80">
+- Python <img src="./resources/python.png" width="80" height="80">
+- Android <img src="./resources/Android.png" width="80" height="80">
+- iOS <img src="./resources/UI.png" width="80" height="80">
+- WPF <img src="./resources/WPF.png" width="80" height="80">
+- C# <img src="./resources/CSharp.png" width="80" height="80">
+- C++ <img src="./resources/cplusplus.png" width="80" height="80">
+- Kotlin <img src="./resources/Kotlin.png" width="80" height="80">
+- Firebase <img src="./resources/Firebase.png" width="80" height="80">
+- OpenGL <img src="./resources/Opengl.png" width="80" height="80">
+- OpenCV <img src="./resources/Opencv.png" width="80" height="80">
+- OpenProject <img src="./resources/openproject.png" width="80" height="80">
 
 
 ## Features
