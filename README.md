@@ -59,6 +59,18 @@ List the ready features here:
 ## Screenshots
 <!-- ![Example screenshot](./resources/Nunebot.png) -->
 <!-- If you have screenshots you'd like to share, include them here. -->
+- Show Window Grid
+
+<img src="./resources/1712742627973.jpeg" height="320"> <img src="./resources/1712742656989.jpeg" height="320">
+
+- Show Window Solution
+
+  <img src="./resources/1712655309408.jpeg" width="320"> <img src="./resources/1712655270164.jpeg" width="320">
+
+- MeetQRCloud
+
+  <img src="./resources/1712839074710.jpeg" height="320">
+
 
 
 ## Setup
